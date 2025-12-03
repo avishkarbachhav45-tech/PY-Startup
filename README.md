@@ -1,2 +1,5 @@
 # PY-Startup
 Welcome to PY-Startup — my starting point for learning Python.   This repository will contain all my practice programs, notes, concepts, and small projects as I explore Python.
+
+## Goal
+To build a strong foundation in Python and improve step-by-step through practice.
