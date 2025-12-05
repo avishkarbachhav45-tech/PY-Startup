@@ -3,3 +3,13 @@ Welcome to PY-Startup — my starting point for learning Python.   This reposito
 
 ## Goal
 To build a strong foundation in Python and improve step-by-step through practice.
+
+- - - 
+
+### Chapter 1 : Basics
+- Practice Set/
+- Problem 1
+- First python code
+- first module 
+
+- - - 
