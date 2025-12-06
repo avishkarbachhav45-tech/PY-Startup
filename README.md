@@ -8,8 +8,16 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 ### Chapter 1 : Basics
 - Practice Set/
-- Problem 1
+- - Problem 1
 - First python code
 - first module 
+
+- - - 
+
+### Chapter 2 : Variables & Datatypes
+- Variables
+- Datatypes
+- Variables rules
+- Opeartors
 
 - - - 
