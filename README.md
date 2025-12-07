@@ -19,5 +19,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 - Datatypes
 - Variables rules
 - Opeartors
+- Types
+- Input in py
 
 - - - 
