@@ -15,6 +15,9 @@ To build a strong foundation in Python and improve step-by-step through practice
 - - - 
 
 ### Chapter 2 : Variables & Datatypes
+- Practice Set/
+- - Problem 1
+- - Problem 2
 - Variables
 - Datatypes
 - Variables rules
