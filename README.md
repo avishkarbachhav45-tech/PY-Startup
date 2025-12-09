@@ -20,6 +20,8 @@ To build a strong foundation in Python and improve step-by-step through practice
 - - Problem 2
 - - Problem 3
 - - Problem 4
+- - Problem 5
+- - Problem 6
 - Variables
 - Datatypes
 - Variables rules
