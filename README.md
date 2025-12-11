@@ -33,5 +33,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 ### Chapter 3 : Strings
 - Introduction to String
+- Negative slicing
+- Str Function
 
 - - - 
