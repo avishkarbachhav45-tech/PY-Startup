@@ -30,3 +30,8 @@ To build a strong foundation in Python and improve step-by-step through practice
 - Input in py
 
 - - - 
+
+### Chapter 3 : Strings
+- Introduction to String
+
+- - - 
