@@ -35,5 +35,6 @@ To build a strong foundation in Python and improve step-by-step through practice
 - Introduction to String
 - Negative slicing
 - Str Function
+- Escape sequence
 
 - - - 
