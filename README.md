@@ -35,6 +35,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 - Practice Set/
 - - Problem 1
 - - Problem 2
+- - Problem 3
 - Introduction to String
 - Negative slicing
 - Str Function
