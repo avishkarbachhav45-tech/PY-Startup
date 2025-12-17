@@ -44,3 +44,8 @@ To build a strong foundation in Python and improve step-by-step through practice
 - Escape sequence
 
 - - - 
+
+### Chapter 3 : List & Tuple
+- List in python
+
+- - - 
