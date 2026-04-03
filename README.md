@@ -45,7 +45,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 - - - 
 
-### Chapter 3 : List & Tuple
+### Chapter 4 : List & Tuple
 - Practice Set/
 - - Problem 1
 - - Problem 2
@@ -56,4 +56,20 @@ To build a strong foundation in Python and improve step-by-step through practice
 - List methods
 - Tuple in python
 - Tuples methods
+
 - - - 
+
+### Chapter 5 : Dictionary and Sets
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
+- Dict in python
+- Dict methods
+- Sets in python
+- Set methods
+- Set operations
+- Set union and intersection
+
+- - -
