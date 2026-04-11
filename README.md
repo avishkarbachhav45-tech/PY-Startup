@@ -89,3 +89,26 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 
 - - - 
+
+### Chapter 7 : Loops
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
+- - Problem 5
+- - Problem 6
+- - Problem 7
+- - Problem 8
+- - Problem 9
+- - Problem 10
+- loops in python
+- while loops
+- list using while loop
+- for loops
+- for loop iterate
+- for loop with else
+- break and continue keywords
+- pass keyword
+
+- - - 
