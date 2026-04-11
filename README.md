@@ -74,3 +74,18 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 - - -
 
+### Chapter 6 : Conditional Expression
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
+- - Problem 5
+- - Problem 6
+- - Problem 7
+- Conditionals in python
+- if-elif-else ladder
+- quick quiz
+
+
+- - - 
