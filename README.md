@@ -112,3 +112,20 @@ To build a strong foundation in Python and improve step-by-step through practice
 - pass keyword
 
 - - - 
+
+### Chapter 8 : Functions and Recursion
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
+- - Problem 5
+- - Problem 6
+- - Problem 7
+- functions in python
+- quick quiz
+- functions with arguments
+- default arguments
+- recursion in python
+
+- - - 
