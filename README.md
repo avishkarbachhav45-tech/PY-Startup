@@ -129,3 +129,9 @@ To build a strong foundation in Python and improve step-by-step through practice
 - recursion in python
 
 - - - 
+
+### Project 1 : Snake, Water, Gun Game
+- main file
+
+- - - 
+
