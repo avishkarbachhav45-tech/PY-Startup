@@ -135,7 +135,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 - - - 
 
-### Chapter 8 : Functions and Recursion
+### Chapter 9 : File Input and Output
 - file in python and reading
 - file writing in python
 - more file functions
