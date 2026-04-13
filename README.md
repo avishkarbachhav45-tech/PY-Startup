@@ -149,7 +149,7 @@ To build a strong foundation in Python and improve step-by-step through practice
 
 - - -
 
-### Chapter 9 : Object Oriented Programming(Basic)
+### Chapter 10 : Object Oriented Programming(Basic)
 - Practice Set/
 - - Problem 1
 - - Problem 2
@@ -162,5 +162,16 @@ To build a strong foundation in Python and improve step-by-step through practice
 - self 
 - static method in OOP
 - constructor
+
+- - -
+
+### Chapter 11 : Inheritance and More on OOP
+- inheritance in python
+- multiple inheritance
+- multilevel inheritance
+- super keyword 
+- class methods
+- property decorators
+- operator overloading
 
 - - -
