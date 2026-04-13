@@ -21,6 +21,3 @@ rohit = Employee("Rohit", 5000000, "JavaScript")
 # rohit.greet()
 
 print(rohit.name, rohit.salary, rohit.language)
-
-
-
