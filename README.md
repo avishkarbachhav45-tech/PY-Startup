@@ -136,10 +136,31 @@ To build a strong foundation in Python and improve step-by-step through practice
 - - - 
 
 ### Chapter 9 : File Input and Output
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
 - file in python and reading
 - file writing in python
 - more file functions
 - append function in file
 - with in file
+
+- - -
+
+### Chapter 9 : Object Oriented Programming(Basic)
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
+- - Problem 5
+- - Problem 6
+- class in OOP
+- instance vs class attribute
+- self 
+- static method in OOP
+- constructor
 
 - - -
