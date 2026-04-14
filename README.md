@@ -166,6 +166,11 @@ To build a strong foundation in Python and improve step-by-step through practice
 - - -
 
 ### Chapter 11 : Inheritance and More on OOP
+- Practice Set/
+- - Problem 1
+- - Problem 2
+- - Problem 3
+- - Problem 4
 - inheritance in python
 - multiple inheritance
 - multilevel inheritance
