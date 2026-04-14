@@ -180,3 +180,8 @@ To build a strong foundation in Python and improve step-by-step through practice
 - operator overloading
 
 - - -
+
+### Project 2 : The Perfect Guess
+- main file
+
+- - -
